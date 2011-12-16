@@ -1,0 +1,16 @@
+Meter Controller
+
+ABOUT
+=====
+
+USB support is provided via the v-usb project, courtesy of Objective
+Development, http://www.obdev.at/products/vusb/index.html.
+
+
+LICENSE
+=======
+All meter code is distributed under the terms of the GNU General
+Public License (GPL) version 2 (see License.txt for details) and the GNU
+General Public License (GPL) version 3. It is your choice whether you apply
+the terms of version 2 or version 3.
+
